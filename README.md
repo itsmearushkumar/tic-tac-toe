@@ -28,9 +28,9 @@ The AI uses the **Minimax Algorithm** to make optimal decisions and never lose.
 
 ## 📁 Project Structure
 
-index.html
-style.css
-script.js
+- index.html
+- style.css
+- script.js
 
 
 ## 🚀 How to Run Locally
